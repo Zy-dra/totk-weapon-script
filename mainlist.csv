@@ -1,0 +1,730 @@
+,Weapon_Shield_001,Wooden Shield,474,2,12,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_002,Soldier's Shield,479,16,16,,1,1,Blunt,4,"Blunt
+GuardEnhance"
+,Weapon_Shield_003,Knight's Shield,480,40,23,,1,1,Blunt,10,"Blunt
+GuardEnhance"
+,Weapon_Shield_004,Boko Shield,492,3,5,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_005,Spiked Boko Shield,493,10,7,,1,1,"Blunt
+Bone",2,"Blunt
+GuardEnhance
+Bone"
+,Weapon_Shield_006,Dragonbone Boko Shield,494,25,8,,1,1,"Blunt
+Bone",6,"Blunt
+GuardEnhance
+Bone"
+,Weapon_Shield_007,Lizal Shield,495,15,8,,1,1,Blunt,3,"Blunt
+GuardEnhance"
+,Weapon_Shield_008,Reinforced Lizal Shield,496,22,12,,1,1,Blunt,5,"Blunt
+GuardEnhance"
+,Weapon_Shield_009,Steel Lizal Shield,497,35,15,,"0,5",1,Blunt,8,"Blunt
+GuardEnhance"
+,Weapon_Shield_016,Lynel Shield,501,30,12,7,1,1,"Blunt
+ShieldBash",7,"GuardEnhance
+ShieldBash
+ShieldBashAnmChange"
+,Weapon_Shield_017,Mighty Lynel Shield,502,44,15,13,1,1,"Blunt
+ShieldBash",13,"GuardEnhance
+ShieldBash
+ShieldBashAnmChange"
+,Weapon_Shield_018,Savage Lynel Shield,503,62,20,21,1,1,"Blunt
+ShieldBash",21,"GuardEnhance
+ShieldBash
+ShieldBashAnmChange"
+,Weapon_Shield_021,Rusty Shield,490,3,16,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_022,Royal Shield,481,55,29,,1,1,Blunt,13,"Blunt
+GuardEnhance"
+,Weapon_Shield_023,Forest Dweller's Shield,482,30,18,,1,1,Blunt,7,"Blunt
+GuardEnhance"
+,Weapon_Shield_025,Zora Shield,483,24,20,,1,1,Blunt,4,"Blunt
+GuardEnhance"
+,Weapon_Shield_026,Gerudo Shield,485,28,20,,"0,6999999881",1,Blunt,5,"Blunt
+GuardEnhance"
+,Weapon_Shield_030,Hylian Shield,471,90,800,,1,1,Blunt,22,"Blunt
+GuardEnhance"
+,Weapon_Shield_031,Hunter's Shield,476,3,10,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_032,Fisherman's Shield,477,3,10,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_033,Royal Guard's Shield,491,70,14,,3,1,Blunt,17,"Blunt
+GuardEnhance"
+,Weapon_Shield_034,Emblazoned Shield,475,3,12,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_035,Traveler's Shield,478,4,12,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_036,Radiant Shield,486,35,26,,"0,6000000238","0,1000000015",Blunt,8,"Blunt
+GuardEnhance
+ShieldSurfingslipperinessUp"
+,Weapon_Shield_037,Daybreaker,487,48,60,,"0,5",1,Blunt,12,"Blunt
+GuardEnhance"
+,Weapon_Shield_040,Pot Lid,472,1,10,,1,1,Blunt,,"Blunt
+GuardEnhance"
+,Weapon_Shield_041,Shield of the Mind's Eye,488,16,16,,1,"0,25",Blunt,4,"Blunt
+GuardEnhance
+ShieldSurfingslipperinessUp"
+,Weapon_Shield_042,Kite Shield,484,14,16,,1,1,Blunt,3,"Blunt
+GuardEnhance
+SpWing"
+,Weapon_Shield_057,Sea-Breeze Shield,489,65,90,,1,1,Blunt,16,"Blunt
+GuardEnhance"
+,Weapon_Shield_101,Zonaite Shield,498,11,15,,1,1,"Blunt
+ZonauEnergyEfficiencyUp",2,"Blunt
+GuardEnhance
+Zonau"
+,Weapon_Shield_102,Strong Zonaite Shield,499,26,15,,1,1,"Blunt
+ZonauEnergyEfficiencyUp",9,"Blunt
+GuardEnhance
+Zonau"
+,Weapon_Shield_103,Mighty Zonaite Shield,500,50,20,,1,1,"Blunt
+ZonauEnergyEfficiencyUp",12,"Blunt
+GuardEnhance
+Zonau"
+,Weapon_Shield_107,Old Wooden Shield,473,2,12,,1,1,Blunt,,"Blunt
+GuardEnhance",Weapon_Bow_001,Traveler's Bow,443,5,22,20,1,1,,,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_002,Soldier's Bow,444,14,36,20,1,1,,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_003,Spiked Boko Bow,457,12,20,20,1,1,Bone,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange
+Bone",
+,Weapon_Bow_004,Boko Bow,456,4,16,20,1,1,,,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_006,Lizal Bow,459,14,25,20,1,1,Bone,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange
+Bone",
+,Weapon_Bow_009,Lynel Bow,462,10,30,20,1,1,,2,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",IsShotBow
+,Weapon_Bow_011,Strengthened Lizal Bow,460,25,35,20,1,1,,6,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_013,Forest Dweller's Bow,447,15,35,20,"1,600000024",1,,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",IsShotBow
+,Weapon_Bow_014,Zora Bow,448,20,40,20,1,1,,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_015,Gerudo Bow,452,25,40,40,1,1,,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",IsLongRangeBow
+,Weapon_Bow_016,Swallow Bow,449,8,30,40,"1,299999952",1,,2,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_017,Falcon Bow,450,14,35,40,"1,600000024",1,,5,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_026,Mighty Lynel Bow,463,20,35,20,1,1,,5,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",IsShotBow
+,Weapon_Bow_027,Dragonbone Boko Bow,458,24,30,20,1,1,Bone,6,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange
+Bone",
+,Weapon_Bow_028,Great Eagle Bow,451,28,60,40,"1,799999952",1,,7,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_029,Phrenic Bow,453,10,45,40,1,1,,2,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",IsLongRangeBow
+,Weapon_Bow_030,Steel Lizal Bow,461,36,50,20,1,1,,9,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_032,Savage Lynel Bow,464,32,45,20,1,1,,8,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",IsShotBow
+,Weapon_Bow_033,Royal Guard's Bow,454,50,20,30,"1,5","0,8000000119",,12,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_035,Knight's Bow,445,26,48,20,1,1,,6,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_036,Royal Bow,446,38,60,20,1,1,,9,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_038,Wooden Bow,442,4,20,20,1,1,,,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_040,Duplex Bow,465,14,18,40,1,1,,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",IsRapidBow
+,Weapon_Bow_072,Dusk Bow,455,30,40,40,1,1,,7,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_101,Zonaite Bow,469,30,50,20,1,1,"ZonauEnergyEfficiencyUp
+BatteryUser",7,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange
+Zonau",
+,Weapon_Bow_104,Construct Bow,466,5,18,20,1,1,,,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange
+Zonau",
+,Weapon_Bow_105,Strong Construct Bow,467,11,26,20,1,1,,3,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange
+Zonau",
+,Weapon_Bow_106,Mighty Construct Bow,468,24,34,20,1,1,,6,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange
+Zonau",
+,Weapon_Bow_107,Old Wooden Bow,441,4,20,20,1,1,,,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",
+,Weapon_Bow_166,Demon King's Bow,470,25,42,30,1,1,AttackUpByLife,11,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBashAnmChange",,Weapon_Lsword_001,Traveler's Claymore (Intact),376,10,9,20,10,UnlikeBat,,9,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,9
+,Weapon_Lsword_002,Soldier's Claymore (Intact),378,17,16,25,20,"DecreaseChargeAttackStamina
+UnlikeBat",,16,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,16
+,Weapon_Lsword_003,Knight's Claymore (Intact),380,26,24,30,38,"HystericalStrength
+UnlikeBat",,24,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,24
+,Weapon_Lsword_019,Moblin Arm,405,30,28,5,8,"Blunt
+Bone",3,28,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+Bone",,28
+,Weapon_Lsword_020,Rusty Claymore,395,7,6,8,8,UnlikeBat,10,6,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,6
+,Weapon_Lsword_024,Royal Claymore (Intact),382,36,34,40,55,"RushDamageUp
+UnlikeBat",,34,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,34
+,Weapon_Lsword_027,Zora Longsword (Intact),384,18,17,30,8,"WaterDamageUp
+UnlikeBat",,17,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,17
+,Weapon_Lsword_029,Gerudo Claymore (Intact),390,24,22,14,28,"AttachmentDamageUp
+UnlikeBat",5,22,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,22
+,Weapon_Lsword_036,Cobble Crusher (Intact),386,15,14,30,15,"ShatterLevelUp
+Blunt",,14,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShatterWeapon",,14
+,Weapon_Lsword_038,Boat Oar,372,5,4,8,3,"Blunt
+ImpressiveGrip",10,4,"Blunt
+ShieldBash
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+AtExpandLarge",,4
+,Weapon_Lsword_041,Eightfold Longblade (Intact),392,25,23,25,32,"Katana
+UnlikeBat",,23,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,23
+,Weapon_Lsword_045,Farming Hoe,371,7,6,6,3,"Blunt
+ImpressiveGrip",10,6,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Lsword_047,Royal Guard's Claymore (Intact),397,42,39,12,72,"RicketyDamageUp
+UnlikeBat",10,39,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,39
+,Weapon_Lsword_051,Giant Boomerang (Intact),374,25,23,40,12,Boomerang,,23,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,23
+,Weapon_Lsword_054,Boulder Breaker,387,40,38,40,72,"ShatterLevelUp
+Blunt",,38,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShatterWeapon",,38
+,Weapon_Lsword_057,Dusk Claymore,393,34,32,50,10,UnlikeBat,,32,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,32
+,Weapon_Lsword_059,Biggoron's Sword,388,38,36,60,10,UnlikeBat,,36,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,36
+,Weapon_Lsword_060,Fierce Deity Sword,394,40,38,35,10,UnlikeBat,,38,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,38
+,Weapon_Lsword_101,Zonaite Longsword,401,9,8,15,18,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,8,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+Zonau",3,8
+,Weapon_Lsword_103,Thick Stick,398,6,5,14,6,Blunt,,5,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,5
+,Weapon_Lsword_106,Traveler's Claymore,375,7,6,16,10,UnlikeBat,,6,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,6
+,Weapon_Lsword_108,Sturdy Thick Stick,399,8,7,26,6,"Blunt
+HighDurability",,7,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,7
+,Weapon_Lsword_109,Gnarled Thick Stick,400,21,19,16,6,Blunt,,19,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,19
+,Weapon_Lsword_112,Soldier's Claymore,377,9,8,17,20,"DecreaseChargeAttackStamina
+UnlikeBat",,8,"ShieldBash
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+AtExpandLarge",,8
+,Weapon_Lsword_113,Knight's Claymore,379,12,11,18,38,"HystericalStrength
+UnlikeBat",,11,"ShieldBash
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+AtExpandLarge",,11
+,Weapon_Lsword_114,Eightfold Longblade,391,9,8,18,32,"Katana
+UnlikeBat",,8,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,8
+,Weapon_Lsword_124,Royal Claymore,381,15,14,20,55,"RushDamageUp
+UnlikeBat",,14,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,14
+,Weapon_Lsword_127,Zora Longsword,383,9,8,20,8,"WaterDamageUp
+UnlikeBat",,8,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,8
+,Weapon_Lsword_129,Gerudo Claymore,389,11,10,10,28,"AttachmentDamageUp
+UnlikeBat",5,10,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,10
+,Weapon_Lsword_136,Cobble Crusher,385,10,9,18,15,"ShatterLevelUp
+Blunt",,9,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShatterWeapon",,9
+,Weapon_Lsword_147,Royal Guard's Claymore,396,34,32,11,72,"RicketyDamageUp
+UnlikeBat",10,32,"ShieldBash
+AtExpandLarge
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,32
+,Weapon_Lsword_161,Magic Scepter,404,8,7,14,6,Blunt,,7,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,7
+,Weapon_Lsword_163,Strong Zonaite Longsword,402,11,10,16,18,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,10,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+Zonau",5,10
+,Weapon_Lsword_164,Mighty Zonaite Longsword,403,16,15,18,18,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,15,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+Zonau",10,15
+,Weapon_Lsword_166,Gloom Club,406,53,50,14,52,"Miasma
+ShatterWeapon
+Blunt",10,50,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShatterWeapon",,50
+,Weapon_Lsword_168,Thick Stick,398,6,5,14,6,Blunt,,5,"Blunt
+ShieldBash
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,5
+,Weapon_Lsword_174,Giant Boomerang,373,12,11,18,12,Boomerang,,11,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,11
+,Weapon_Spear_001,Traveler's Spear (Intact),413,3,4,30,4,,,4,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,4
+,Weapon_Spear_002,Soldier's Spear (Intact),415,7,10,35,8,ChargeSpeedUp,,10,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,10
+,Weapon_Spear_003,Knight's Halberd (Intact),417,10,14,40,15,HystericalStrength,,14,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,14
+,Weapon_Spear_021,Rusty Halberd,429,2,3,12,4,,10,3,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,3
+,Weapon_Spear_022,Farmer's Pitchfork,408,3,4,12,4,ImpressiveGrip,10,4,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,4
+,Weapon_Spear_024,Royal Halberd (Intact),419,13,18,50,32,RushDamageUp,,18,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,18
+,Weapon_Spear_025,Forest Dweller's Spear (Intact),421,10,14,35,6,Reuse,,14,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,14
+,Weapon_Spear_027,Zora Spear (Intact),423,8,11,40,8,WaterDamageUp,,11,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,11
+,Weapon_Spear_029,Gerudo Spear (Intact),428,9,12,20,15,AttachmentDamageUp,5,12,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,12
+,Weapon_Spear_030,Throwing Spear (Intact),411,6,8,26,4,,,8,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,8
+,Weapon_Spear_032,Feathered Spear (Intact),426,7,10,35,14,CreateWind,,10,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,10
+,Weapon_Spear_036,Wooden Mop,407,2,3,8,2,"Blunt
+ImpressiveGrip",10,3,"Blunt
+ShieldBash
+AtExpandLarge
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,3
+,Weapon_Spear_038,Fishing Harpoon,409,3,4,12,4,,10,4,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,4
+,Weapon_Spear_047,Royal Guard's Spear (Intact),431,18,24,15,24,RicketyDamageUp,10,24,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,24
+,Weapon_Spear_050,Lightscale Trident,424,16,22,70,18,WaterDamageUp,,22,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,22
+,Weapon_Spear_101,Zonaite Spear,435,3,4,22,8,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,4,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+Zonau",3,4
+,Weapon_Spear_103,Long Stick,432,1,2,18,2,,,2,"Blunt
+ShieldBash
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+AtExpandLarge",,2
+,Weapon_Spear_106,Traveler's Spear,412,2,3,24,4,,,3,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,3
+,Weapon_Spear_108,Sturdy Long Stick,433,3,4,34,2,HighDurability,,4,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,4
+,Weapon_Spear_109,Gnarled Long Stick,434,7,10,22,2,,,10,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+ShieldBash
+AtExpandLarge",,10
+,Weapon_Spear_112,Soldier's Spear,414,3,4,25,8,ChargeSpeedUp,,4,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,4
+,Weapon_Spear_113,Knight's Halberd,416,4,6,26,15,HystericalStrength,,6,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Spear_124,Royal Halberd,418,5,7,30,32,RushDamageUp,,7,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,7
+,Weapon_Spear_125,Forest Dweller's Spear,420,4,6,24,6,Reuse,,6,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Spear_127,Zora Spear,422,4,6,26,8,WaterDamageUp,,6,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Spear_129,Gerudo Spear,427,4,6,15,15,AttachmentDamageUp,5,6,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Spear_132,Feathered Spear,425,3,4,25,14,CreateWind,,4,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,4
+,Weapon_Spear_147,Royal Guard's Spear,430,11,15,14,24,RicketyDamageUp,10,15,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,15
+,Weapon_Spear_161,Magic Staff,438,3,4,14,2,,,4,"Blunt
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,4
+,Weapon_Spear_163,Strong Zonaite Spear,436,4,6,24,8,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,6,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+Zonau",5,6
+,Weapon_Spear_164,Mighty Zonaite Spear,437,6,8,27,8,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,8,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+Zonau",10,8
+,Weapon_Spear_166,Gloom Spear,439,30,40,16,24,Miasma,10,40,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,40
+,Weapon_Spear_168,Long Stick,432,1,2,18,2,,,2,"Blunt
+ShieldBash
+ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange
+AtExpandLarge",,2
+,Weapon_Spear_173,Throwing Spear,410,2,3,20,4,,,3,"ShieldSurfingslipperinessDown
+AtExpandLarge
+ShieldBash
+ShieldBashAnmChange",,3
+,Weapon_Sword_001,Traveler's Sword (Intact),337,7,7,20,5,,,7,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,7
+,Weapon_Sword_002,Soldier's Broadsword (Intact),339,12,12,23,14,ChargeSpeedUp,,12,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,12
+,Weapon_Sword_003,Knight's Broadsword (Intact),341,18,18,27,26,HystericalStrength,,18,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,18
+,Weapon_Sword_019,Bokoblin Arm,368,20,20,5,3,"Blunt
+Bone",3,20,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+Bone",,20
+,Weapon_Sword_020,Lizalfos Arm,369,22,22,5,3,"Boomerang
+Blunt
+Bone
+BoomerangZRotate",3,22,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+Bone",,22
+,Weapon_Sword_021,Rusty Broadsword,355,5,5,6,5,,10,5,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,5
+,Weapon_Sword_022,Soup Ladle,332,4,4,5,5,Blunt,10,4,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,4
+,Weapon_Sword_024,Royal Broadsword (Intact),343,24,24,35,36,RushDamageUp,,24,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,24
+,Weapon_Sword_025,Forest Dweller's Sword (Intact),345,16,16,27,8,Reuse,,16,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,16
+,Weapon_Sword_027,Zora Sword (Intact),347,12,12,27,10,WaterDamageUp,,12,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,12
+,Weapon_Sword_029,Gerudo Scimitar (Intact),351,17,17,14,12,AttachmentDamageUp,5,17,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,17
+,Weapon_Sword_031,Feathered Edge (Intact),349,13,13,27,8,CreateWind,,13,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,13
+,Weapon_Sword_041,Eightfold Blade (Intact),354,15,15,26,15,StealthAttackUp,,15,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,15
+,Weapon_Sword_043,Torch,331,2,2,8,2,"Blunt
+Torch",10,2,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+Torch",,2
+,Weapon_Sword_044,Tree Branch,330,2,2,4,2,Blunt,10,2,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,2
+,Weapon_Sword_047,Royal Guard's Sword (Intact),358,30,30,12,48,RicketyDamageUp,10,30,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,30
+,Weapon_Sword_051,Boomerang (Intact),334,8,8,18,8,Boomerang,,8,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,8
+,Weapon_Sword_052,Scimitar of the Seven,352,28,28,60,30,AttachmentDamageUp,,28,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,28
+,Weapon_Sword_057,White Sword of the Sky,359,24,24,45,5,,,24,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,24
+,Weapon_Sword_058,Sword of the Hero,356,17,17,27,5,,,17,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,17
+,Weapon_Sword_059,Sea-Breeze Boomerang,335,16,16,20,8,Boomerang,,16,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,16
+,Weapon_Sword_070,Master Sword,329,30,30,40,40,"MasterSword
+DefeatMiasma",,,,,
+,Weapon_Sword_101,Zonaite Sword,364,6,6,15,12,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,6,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+Zonau",3,6
+,Weapon_Sword_103,Wooden Stick,360,4,4,12,4,Blunt,,4,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,4
+,Weapon_Sword_105,Boomerang,333,6,6,16,8,Boomerang,,6,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Sword_106,Traveler's Sword,336,5,5,16,5,,,5,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,5
+,Weapon_Sword_107,Lizal Boomerang,363,8,8,17,16,Boomerang,,8,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,8
+,Weapon_Sword_108,Sturdy Wooden Stick,361,5,5,24,4,"Blunt
+HighDurability",,5,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,5
+,Weapon_Sword_109,Gnarled Wooden Stick,362,14,14,14,4,Blunt,,14,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,14
+,Weapon_Sword_112,Soldier's Broadsword,338,6,6,17,14,ChargeSpeedUp,,6,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Sword_113,Knight's Broadsword,340,7,7,18,26,HystericalStrength,,7,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,7
+,Weapon_Sword_114,Eightfold Blade,353,6,6,16,15,StealthAttackUp,,6,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Sword_124,Royal Broadsword,342,10,10,20,36,RushDamageUp,,10,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,10
+,Weapon_Sword_125,Forest Dweller's Sword,344,7,7,17,8,Reuse,,7,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,7
+,Weapon_Sword_127,Zora Sword,346,6,6,20,10,WaterDamageUp,,6,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Sword_129,Gerudo Scimitar,350,8,8,10,12,AttachmentDamageUp,5,8,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,8
+,Weapon_Sword_131,Feathered Edge,348,6,6,18,8,CreateWind,,6,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Sword_147,Royal Guard's Sword,357,22,22,10,48,RicketyDamageUp,10,22,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,22
+,Weapon_Sword_161,Magic Rod,367,6,6,14,2,Blunt,,6,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,6
+,Weapon_Sword_163,Strong Zonaite Sword,365,7,7,16,12,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,7,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+Zonau",5,7
+,Weapon_Sword_164,Mighty Zonaite Sword,366,10,10,18,12,"ZonauDamageUp
+ZonauEnergyEfficiencyUp
+BluntWithAnyAttachment",,10,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+Zonau",10,10
+,Weapon_Sword_166,Gloom Sword,370,41,41,15,48,Miasma,10,41,"ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange",,41
+,Weapon_Sword_167,Tree Branch,330,2,2,4,2,Blunt,10,2,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,2
+,Weapon_Sword_168,Wooden Stick,360,4,4,12,4,Blunt,,4,"Blunt
+ShieldSurfingslipperinessDown
+ShieldBash
+ShieldBashAnmChange
+ShieldBash",,4
